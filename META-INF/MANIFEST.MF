@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: 11.0.18 (Ubuntu)
+Main-Class: PrincipalMain.Main
